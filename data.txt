@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<version>1</version>
+	<mainServerName>Rust-GA</mainServerName>
+	<mainServerHost>rust-ga.ga:28015</mainServerHost>
+	<assets>https://grossio.github.io/Assets/dust.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/audio.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/car.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/old_truck.unity3d</assets>
+  <assets>https://grossio.github.io/Assets/island.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/radio_tower.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/bunc.unity3d</assets>
+	<assets>https://grossio.github.io/Assets/car_control.unity3d</assets>
+	<servers>1</servers>
+	<servers>2</servers>
+	<servers>3</servers>
+	<servers>4</servers>
