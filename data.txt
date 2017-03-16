@@ -13,8 +13,5 @@
 	<assets>https://grossio.github.io/Assets/car_control.unity3d1</assets>
 	<servers>RustRome Classic|classic.rustrome.ru|28015</servers>
 	<servers>RustRome Alone|alone.rustrome.ru|28028</servers>
-	<servers>RustRome DM| dm.rustrome.ru|28021</servers>
-	<servers>2</servers>
-	<servers>3</servers>
-	<servers>4</servers>
+	<servers>[color red]RustRome DM[Protect]| dm.rustrome.ru|28021</servers>
 </document>
