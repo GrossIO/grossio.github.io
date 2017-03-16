@@ -11,7 +11,9 @@
 	<assets>https://grossio.github.io/Assets/radio_tower.unity3d1</assets>
 	<assets>https://grossio.github.io/Assets/bunc.unity3d1</assets>
 	<assets>https://grossio.github.io/Assets/car_control.unity3d1</assets>
-	<servers>1</servers>
+	<servers>RustRome Classic|classic.rustrome.ru|28015</servers>
+	<servers>RustRome Alone|alone.rustrome.ru|28028</servers>
+	<servers>RustRome DM| dm.rustrome.ru|28021</servers>
 	<servers>2</servers>
 	<servers>3</servers>
 	<servers>4</servers>
