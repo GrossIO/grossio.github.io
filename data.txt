@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<document>
-	<version>1</version>
-	<mainServerName>Rust-GA</mainServerName>
-	<mainServerHost>rust-ga.ga:28015</mainServerHost>
-	<assets>https://grossio.github.io/Assets/dust.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/audio.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/car.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/old_truck.unity3d1</assets>
-  <assets>https://grossio.github.io/Assets/island.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/radio_tower.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/bunc.unity3d1</assets>
-	<assets>https://grossio.github.io/Assets/car_control.unity3d1</assets>
-	<servers>RustRome Classic|classic.rustrome.ru|28015</servers>
-	<servers>RustRome Alone|alone.rustrome.ru|28028</servers>
-	<servers>[color red]RustRome DM[Protect]| dm.rustrome.ru|28021</servers>
-</document>
+YH8VXpodwIiexPuPC5+3sUZ33jYMIUZ47WMh0lRLZ5gf3h9SDjimP0dh16HD3OO5bFh7OnfZP+yb7VUkPtdYB7/j04tO6kFoyI5LbcyBn/CRPEV2Yd2CBDcO1lI06jJWJk33H1Rt93oHvYFjKRCzFn0TSK2k3LjqXDythnxr/imVbFZUfFo7t3jkARZDtjiNA2SlNtrFUC8w9iFWXrnWXb8HnDAEthHixK0QbdenGKbPN310F2uR5Q+3EsuoCI76bKlTv0AcZNm1qdXyWYiL5k2TV8tEk88hv16p0O5Wek8H5/qbGM2pLfnHk4077yxnWywWAwz54bS4e11RWgxoWqIb4m9Nbe9MbUJRt3B7XRquLnzWCDNDfgDEIqRo35rjIotPK/zaQC+bk69ClYPrRerCE7ZPNlWVuXmI0eYteBc60chIPYJEAoIi/ZnfPjfB2VEAXtQf1itkeGua3cgpGmRDFyMAe87fpHuskh8hm5W0Kucvss+EWJ2PVLJgIW2jvyYnmexTzP7T560BtuKlQq2XX4h0aB4Sz9WIyKlJWohagBtRR1uSV457JKO33czfpYzLX0QzxL9IqIxlRELwk53qnBMrLkwMiIgnqkF61GTtLKt3G6Fhjd8RW8KESkVhTq4CR/F8E9ScFP569NHmCDkf1LBPL/pqN2KDtLE94y1n9Naw4PSLhmxbdpZcOayhIe/n9ZZBoeIU4D6nm5K6iZEPV/ju0ihC9yErvwqcmohZnJ3yQNBIXSEPOxJilGcTlafbG7n7Zhrwa1Ei7t0WHkcaMJAaMlNr586DLLUyHcPqskzE7/4Z/yB3io80HTCQgQolwYboKAg/BicaL5tBkYZ6Zifabi64dvZuGbEZ3wjUfGKC2+tfwhIrFPE5Ze18Ek0R4zR+w+Iq86W1PdXY6tTxYEoSMOBB9FpcpCgDia1XhyV0WQAYdO5jzX/tlbVPCbbtzHcKIE4K5eDVuRoqVFalb+T5mToTCJ3/ma+EasBu9k7WZqABw63mFD2Sv1kPazZEJFQG3oDvl9zXhE/TXuL8p5920wSwUKTpU6xj7mXMB/wq+SCBCJDLhfWczORXMLTT+4pubc/iTAvilf49UC48zCH/9EMeX6ljXYs7zDK0Jp063lS7DuwQt8gjF17mbxAukxGW1aSwtQJZoBG6ymcg7D6x+qjr/pIg0XTJjTXJvYQ2z/9uQkXnXCnTmlpIMDK1Tc86mq2N89oOdV6fol9v9x1AAehcPCz6Jg/2M14=
